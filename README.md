@@ -38,10 +38,10 @@ npm install
 
 | Key            | Value (example)                                             |
 | -------------- | ----------------------------------------------------------- |
-| `PORT`         | `5000` (or leave default)                                  |
-| `DATABASE_URL` | `mysql://user:password@host:port/dbname`     |
+| `PORT`         | `5000` (or leave default)                                   |
+| `DATABASE_URL` | `mysql://user:password@host:port/dbname`                    |
 | `JWT_SECRET`   | `yourSecretKey`                                             |
-| `CORS_ORIGIN`  | `http://localhost:5173` |
+| `CORS_ORIGIN`  | `http://localhost:5173`                                     |
 
 ### 4. Migrate DB & Seed (Optional)
 
